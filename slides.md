@@ -19,6 +19,11 @@ Aleksander Lisiecki
 
 ---
 
+.scale60[![running android studio](images/running_android_studio.jpeg)]
+[1]
+
+---
+
 class: middle, center
 
 # Thank you for your attention
