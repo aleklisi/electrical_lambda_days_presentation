@@ -1,1 +1,0 @@
-# electrical_lambda_days_presentation
