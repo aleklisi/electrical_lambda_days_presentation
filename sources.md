@@ -3,3 +3,5 @@
 [3] from: https://sustainability.fb.com/wp-content/uploads/2021/06/2020_FB_Sustainability-Data.pdf
 [4] from: https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE3455q
 [6] from: https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
+[7] screenshot of: https://futurism.com/bitcoin-mining-company-buys-entire-coal-power-plant
+[8] https://cdn.hswstatic.com/gif/paying-bills-original.jpg
