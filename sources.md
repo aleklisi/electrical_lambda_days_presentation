@@ -5,3 +5,4 @@
 [6] from: https://www.eia.gov/tools/faqs/faq.php?id=97&t=3
 [7] screenshot of: https://futurism.com/bitcoin-mining-company-buys-entire-coal-power-plant
 [8] https://cdn.hswstatic.com/gif/paying-bills-original.jpg
+[9] https://en.wikipedia.org/wiki/Amish#/media/File:Lancaster_County_Amish_03.jpg

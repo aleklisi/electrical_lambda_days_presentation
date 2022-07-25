@@ -51,6 +51,13 @@ class: middle, center
 # What should we do to save the electrical energy?
 
 ---
+# We could give up electricity completely
+
+.scale80[![Amish](images/amish.jpeg)]
+
+[9]
+
+---
 class: middle, center
 
 # Thank you for your attention
