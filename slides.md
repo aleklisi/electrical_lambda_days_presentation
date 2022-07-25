@@ -224,7 +224,10 @@ class: middle, center
 
 [18]
 
+---
+# Whatsapp upgrading Erlang and using JIT
 
+.scale80[![Erlang improvement](images/ErlangJITPerofrmenceImproment.png)]
 
 ---
 class: middle, center
