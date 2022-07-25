@@ -148,6 +148,22 @@ Response:
     ], "AxB_Len": 2, "AxB_Height": 2
 }
 ```
+---
+# Some of the results (1)
+
+.scale45[![Erlang results](images/results/Erlang.png)]
+.scale45[![NodeJS results](images/results/NodeJS.png)]
+.scale45[![Python results](images/results/Python.png)]
+
+---
+# Some of the results (2)
+
+|Programming language  | Energy consumed [Wh] |
+|:---|:---|
+| NodeJS | 0.01238 |
+| Python | 0.01875 |
+| Erlang | 0.08746 |
+
 
 ---
 class: middle, center
