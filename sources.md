@@ -10,3 +10,5 @@
 [11] https://www.tutorialspoint.com/physics_part1/images/electricty.jpg
 [12] https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2015/05/1379398021_lightning-wallpaper.jpg?width=1200&enable=upscale
 [13] https://www.build-electronic-circuits.com/wp-content/uploads/2014/09/Ohms-law-cartoon-cropped.jpg
+[14] https://en.wikipedia.org/wiki/Electric_power
+[15] https://en.wikipedia.org/wiki/Electrical_energy

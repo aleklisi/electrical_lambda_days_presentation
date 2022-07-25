@@ -78,6 +78,34 @@ class: middle, center
 [13]
 
 ---
+# Power
+
+"**Electric power** is the rate, per unit time, at which electrical energy is transferred by an electric circuit." [14]
+
+P = V * I
+
+where:
+- P is electric power in watts [W]
+- I is electric current in amperes [A]
+- V is electric potential or voltage in volts [V]
+
+---
+# Energy
+
+"**Electrical energy** is energy derived as a result of movement of electrically charged particles. When used loosely, electrical energy refers to energy that has been converted from electric potential energy." [15]
+
+E = P * t
+
+where:
+- E is electrical energy in jules [J]*
+- P is electric power in watts [W]
+- t is time [s]
+
+*"Electrical energy is usually sold by the kilowatt hour (1 kW·h = 3.6 MJ) which is the product of the power in kilowatts multiplied by running time in hours."[15]
+
+*I promise this is as hard as it gets with the maths in this talk!*
+
+---
 class: middle, center
 
 # Thank you for your attention
