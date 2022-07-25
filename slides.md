@@ -106,6 +106,17 @@ where:
 *I promise this is as hard as it gets with the maths in this talk!*
 
 ---
+# From theory ...
+
+.scale90[![test setup](images/test_setup.png)]
+
+---
+# ... to practice
+
+.scale45[![mess1](images/wires_mess_on_table.jpeg)]
+.scale45[![mess2](images/computers_setup.jpeg)]
+
+---
 class: middle, center
 
 # Thank you for your attention
