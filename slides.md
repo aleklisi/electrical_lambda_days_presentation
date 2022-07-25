@@ -117,6 +117,39 @@ where:
 .scale45[![mess2](images/computers_setup.jpeg)]
 
 ---
+# The benchmark assumptions
+
+* microservice
+* solve commonly known problem
+* use default programming language's settings
+* easy to implement
+* include different aspects of programming
+
+---
+# My benchmark
+
+An HTTP service with a single endpoint to multiplying matrixes it is given as an JSON input:
+
+Request:
+```json
+{
+    "A": [ [1, 2],
+           [3, 4] ], "A_Len": 2, "A_Height": 2,
+    "B": [ [5, 6],
+           [7, 8]], "B_Len": 2, "B_Height": 2
+}
+```
+Response:
+```json
+{
+    "AxB": [
+        [23, 34],
+        [31, 50]
+    ], "AxB_Len": 2, "AxB_Height": 2
+}
+```
+
+---
 class: middle, center
 
 # Thank you for your attention
