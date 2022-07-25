@@ -59,5 +59,18 @@ class: middle, center
 
 ---
 class: middle, center
+# We could use energy efficient technologies
+
+---
+# What is electrical current?
+
+"An **electric current** is a stream of charged particles, such as electrons or ions, moving through an electrical conductor or space." [10]
+
+.scale45[![Light bulb](images/light_bulb_and_a_batery.jpeg)]
+.scale45[![Thunder](images/thunder.webp)]
+
+[11] [12]
+---
+class: middle, center
 
 # Thank you for your attention

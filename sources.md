@@ -6,3 +6,6 @@
 [7] screenshot of: https://futurism.com/bitcoin-mining-company-buys-entire-coal-power-plant
 [8] https://cdn.hswstatic.com/gif/paying-bills-original.jpg
 [9] https://en.wikipedia.org/wiki/Amish#/media/File:Lancaster_County_Amish_03.jpg
+[10] https://en.wikipedia.org/wiki/Electric_current
+[11] Image of a light bulb from: https://www.tutorialspoint.com/physics_part1/images/electricty.jpg
+[12] Image of a thunder from: https://www.zmescience.com/mrf4u/statics/i/ps/cdn.zmescience.com/wp-content/uploads/2015/05/1379398021_lightning-wallpaper.jpg?width=1200&enable=upscale
