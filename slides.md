@@ -200,12 +200,22 @@ and energy consumption of twenty seven well-known software languages."
 "[...]we can have languages with very similar energy consumptions and completely different execution times" [16]
 
 "Compiled languages tend to be, as expected, the fastest and most energy efficient ones. [...] This tendency can also be observed for execution time [...]" [16]
+
 ---
 # Conclusions from the paper (2)
 
 "[...] we can see that the **C language** is, overall, the fastest and** most energy efficient**." [16]
 
 .scale45[![Linus](images/linusTorwalds.jpeg)]
+
+---
+class: middle, center
+# Is it all about efficiency?
+
+---
+# Sorry Mr. Torvalds but **NO**!
+
+"Lua is a tiny and simple language, partly because it does not try to do what C is already good for, such as sheer performance, low-level operations, or interface with third-party software. Lua relies on C for those tasks." [17]
 
 
 
