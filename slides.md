@@ -70,6 +70,13 @@ class: middle, center
 .scale45[![Thunder](images/thunder.webp)]
 
 [11] [12]
+
+---
+# What is electrical current? (for common people)
+.scale60[![Ohm's law](images/Ohms-law-cartoon-cropped.jpeg)]
+
+[13]
+
 ---
 class: middle, center
 
