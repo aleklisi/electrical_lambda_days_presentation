@@ -44,6 +44,7 @@ Total electricity used by Microsoft in 2019 was **8,741,807 MWh**. [4]
 
 .scale45[![Bitcoin Coal power plan](images/bitcoin_mining_coal.png)]
 .scale45[![Paying bills](images/paying-bills.jpeg)]
+
 [7] [8]
 
 ---
