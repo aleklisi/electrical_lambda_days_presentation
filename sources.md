@@ -12,3 +12,4 @@
 [13] https://www.build-electronic-circuits.com/wp-content/uploads/2014/09/Ohms-law-cartoon-cropped.jpg
 [14] https://en.wikipedia.org/wiki/Electric_power
 [15] https://en.wikipedia.org/wiki/Electrical_energy
+[16] https://sites.google.com/view/energy-efficie

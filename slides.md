@@ -164,6 +164,51 @@ Response:
 | Python | 0.01875 |
 | Erlang | 0.08746 |
 
+---
+# Which is the most efficient one?
+
+"Energy Efficiency across Programming Languages 
+How Do Energy, Time, and Memory Relate?"
+
+by 
+ - Rui Pereira,
+ - Marco Couto, 
+ - Francisco Ribeiro, 
+ - Rui Rua, 
+ - Jácome Cunha,
+ - João Paulo Fernandes,
+ - João Saraiva
+
+"The paper presents a study of the runtime, memory usage
+and energy consumption of twenty seven well-known software languages."
+[16]
+
+---
+# Results from the paper
+
+.scale27[![benchmark](images/benchmark3.png)]
+.scale27[![benchmark](images/benchmark2.png)]
+.scale27[![benchmark](images/benchmark1.png)]
+
+[16]
+
+---
+# Conclusions from the paper (1)
+
+"Execution time behaves differently when compared to energy efficiency. The results [...] show several scenarios where a certain language energy consumption rank differs from the execution time rank [...].  In the `fasta` benchmark, for example, the Fortran language is second most energy efficient, while dropping 6 positions when it comes to execution time." [16]
+
+"[...]we can have languages with very similar energy consumptions and completely different execution times" [16]
+
+"Compiled languages tend to be, as expected, the fastest and most energy efficient ones. [...] This tendency can also be observed for execution time [...]" [16]
+---
+# Conclusions from the paper (2)
+
+"[...] we can see that the **C language** is, overall, the fastest and** most energy efficient**." [16]
+
+.scale45[![Linus](images/linusTorwalds.jpeg)]
+
+
+
 
 ---
 class: middle, center
