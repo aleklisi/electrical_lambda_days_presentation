@@ -164,6 +164,7 @@ Response:
 |:---|:---|
 | NodeJS | 0.01414 |
 | Python | 0.01946 |
+| Golang | 0.02181 |
 | Erlang | 0.08874 |
 | Ruby   | 0.11621 |
 
