@@ -155,15 +155,17 @@ Response:
 .scale45[![Erlang results](images/results/Erlang.png)]
 .scale45[![NodeJS results](images/results/NodeJS.png)]
 .scale45[![Python results](images/results/Python.png)]
+.scale45[![Ruby results](images/results/Ruby.png)]
 
 ---
 # Some of the results (2)
 
 |Programming language  | Energy consumed [Wh] |
 |:---|:---|
-| NodeJS | 0.01238 |
-| Python | 0.01875 |
-| Erlang | 0.08746 |
+| NodeJS | 0.01414 |
+| Python | 0.01946 |
+| Erlang | 0.08874 |
+| Ruby   | 0.11621 |
 
 ---
 # Which is the most efficient one?
